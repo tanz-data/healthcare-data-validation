@@ -1,0 +1,22 @@
+{
+  "claims.billed_blank": 71,
+  "claims.billed_negative": 97,
+  "claims.billed_not_numeric": 117,
+  "claims.diagnosis_code_invalid": 225,
+  "claims.duplicate_claim_id_rows": 105,
+  "claims.encounter_id_blank": 96,
+  "claims.orphan_encounter_id": 160,
+  "claims.paid_exceeds_billed": 149,
+  "claims.patient_mismatch_with_encounter": 142,
+  "encounters.discharge_before_encounter": 44,
+  "encounters.encounter_date_bad_format": 82,
+  "encounters.orphan_patient_id": 192,
+  "encounters.patient_id_blank": 98,
+  "encounters.volume_drop_days": 3,
+  "patients.birth_date_bad_format": 15,
+  "patients.birth_date_blank": 103,
+  "patients.birth_date_in_future": 26,
+  "patients.duplicate_patient_id_rows": 50,
+  "patients.gender_blank": 64,
+  "patients.gender_invalid": 34
+}
